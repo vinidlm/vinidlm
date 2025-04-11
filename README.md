@@ -35,8 +35,8 @@ I'm passionate about data, technology, and solving real-world problems through c
 
 ## 📌 Projetos em destaque | Featured Projects (coming soon)
 
-📊 `analise-mineracao-cfem`: Análise da arrecadação da Compensação Financeira pela Exploração Mineral  
-> Analysis of mineral royalties in Brazil using public datasets and visualizations
+📊 `Gastos_Parlamentares`: Análise dos gastos parlamentares dos deputados federais do Brasil, de 2009 até 2024  
+> Analysis of parliamentary spending by Brazilian federal deputies, from 2009 to 2024
 
 🎧 `recomendador-musical-ml`: Recomendador musical com clustering e aprendizado de máquina  
 > Music recommendation system based on K-Means clustering of song features
